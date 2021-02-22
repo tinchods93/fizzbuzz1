@@ -1,4 +1,4 @@
-# fizzbuzz1
+# FizzBuzz
 This is a simple project for a college course assignment.
 It's based on the popular Fizzbuzz Code Interview, and it has several bugs and malfunctions on purpose.
 

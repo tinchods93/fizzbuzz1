@@ -1,22 +1,13 @@
 body {
-	background-image: linear-gradient(
-		45deg,
-		#f098a8 21.43%,
-		#eb94a3 21.43%,
-		#eb94a3 50%,
-		#f098a8 50%,
-		#f098a8 71.43%,
-		#eb94a3 71.43%,
-		#eb94a3 100%
-	);
-	background-size: 49.5px 49.5px;
+    background-image: linear-gradient( 45deg, #f098a8 21.43%, #eb94a3 21.43%, #eb94a3 50%, #f098a8 50%, #f098a8 71.43%, #eb94a3 71.43%, #eb94a3 100%);
+    background-size: 49.5px 49.5px;
 }
 
 .card {
-	margin: auto;
-	width: fit-content;
+    margin: auto;
+    width: fit-content;
 }
 
 .hiddenE {
-	display: none;
+    display: none;
 }
